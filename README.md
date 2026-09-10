@@ -14,4 +14,13 @@ The program takes text from the user and checks whether the sentiment is positiv
 
 pip install -r requirements.txt
 
+Run the program:
+
 python sentiment_analyzer.py
+
+## Example
+
+Enter a sentence: I really enjoyed learning Python.
+
+Sentiment: Positive  
+Polarity Score: 0.5
